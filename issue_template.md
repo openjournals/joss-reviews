@@ -1,4 +1,4 @@
-### :warning: Please do not open issues on this repository :warning:
+### :warning: STOP!!!! Please do not open issues on this repository :warning:
 
 This repository is _exclusively_ for JOSS pre-review and review issues. These are generated as part of our submission process.
 
