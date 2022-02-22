@@ -36,4 +36,4 @@
 - [ ] **A statement of need:** Does the paper have a section titled 'Statement of Need' that clearly states what problems the software is designed to solve and who the target audience is?
 - [ ] **State of the field:** Do the authors describe how this software compares to other commonly-used packages?
 - [ ] **Quality of writing:** Is the paper well written (i.e., it does not require editing for structure, language, or writing quality)?
-- [ ] **References:** Is the list of references complete, and is everything cited appropriately that should be cited (e.g., papers, datasets, software)? Do references in the text use the proper [citation syntax]( https://rmarkdown.rstudio.com/authoring_bibliographies_and_citations.html#citation_syntax)?
+- [ ] **References:** Is the list of references complete, and is everything cited appropriately that should be cited (e.g., papers, datasets, software)? Do references in the text use the proper [citation syntax](https://pandoc.org/MANUAL.html#extension-citations)?
