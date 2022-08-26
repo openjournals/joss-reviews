@@ -14,6 +14,10 @@
 - [ ] **License:** Does the repository contain a plain-text LICENSE file with the contents of an [OSI approved](https://opensource.org/licenses/alphabetical) software license?
 - [ ] **Contribution and authorship:** Has the submitting author ({{author-handle}}) made major contributions to the software? Does the full list of paper authors seem appropriate and complete?
 - [ ] **Substantial scholarly effort:** Does this submission meet the scope eligibility described in the [JOSS guidelines](https://joss.readthedocs.io/en/latest/submitting.html#substantial-scholarly-effort)
+- [ ] **Data sharing:** If the paper contains original data, data are accessible to the reviewers. If the paper contains no original data, please check this item.
+- [ ] **Reproducibility:** If the paper contains original results, results are entirely reproducible by reviewers. If the paper contains no original results, please check this item.
+- [ ] **Human and animal research:** If the paper contains original data research on humans subjects or animals, does it comply with [JOSS's human participants research policy and/or animal research policy](https://joss.readthedocs.io/en/latest/policies.html?highlight=animal#joss-policies)? If the paper contains no such data, please check this item.
+
 
 ### Functionality
 
