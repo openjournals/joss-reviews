@@ -23,5 +23,5 @@ This is how it will look in your documentation:
 
 The Journal of Open Source Software is a community-run journal and relies upon volunteer effort. If you'd like to support us please consider doing either one (or both) of the the following:
 
-- Volunteering to review for us sometime in the future. You can add your name to the reviewer list here: https://joss.theoj.org/reviewer-signup.html
+- Volunteering to review for us sometime in the future. You can add your name to the reviewer list here: https://reviewers.joss.theoj.org/join
 - Making a small donation to support our running costs here: https://numfocus.org/donate-to-joss
