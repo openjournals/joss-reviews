@@ -9,7 +9,7 @@
 ## Editor Tasks Prior to Acceptance
 - [ ] Read the text of the paper and offer comments/corrections (as either a list or a PR)
 - [ ] Check the references in the paper for corrections (e.g. capitalization)
-- [ ] Set article DOI with ``@editorialbot set <DOI here> as archive``
+- [ ] Set archive DOI with ``@editorialbot set <DOI here> as archive``
 - [ ] Set version with ``@editorialbot set <version here> as version``
 - [ ] Double check rendering of paper with ``@editorialbot generate pdf``
 - [ ] Specifically check the references with ``@editorialbot check references`` and ask author(s) to update as needed
