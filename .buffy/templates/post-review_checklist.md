@@ -5,6 +5,7 @@
 - [ ] Make a release of the software with the latest changes from the review and post the version number here. This is the version that will be used in the JOSS paper.  
 - [ ] Archive the release on Zenodo/figshare/etc and post the DOI here.
 - [ ] Make sure that the title and author list (including ORCIDs) in the archive match those in the JOSS paper.
+- [ ] Make sure that the license listed for the archive is the same as the software license.
 
 ## Editor Tasks Prior to Acceptance
 - [ ] Read the text of the paper and offer comments/corrections (as either a list or a PR)
