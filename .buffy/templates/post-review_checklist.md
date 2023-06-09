@@ -1,5 +1,5 @@
-
 # Post-Review Checklist for Editor and Authors
+
 ## Additional Author Tasks After Review is Complete
 - [ ] Double check authors and affiliations (including ORCIDs)
 - [ ] Make a release of the software with the latest changes from the review and post the version number here. This is the version that will be used in the JOSS paper.  
