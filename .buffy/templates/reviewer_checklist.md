@@ -11,7 +11,7 @@
 ### General checks
 
 - [ ] **Repository:** Is the source code for this software available at the [{{target-repository}}]({{target-repository}})?
-- [ ] **License:** Does the repository contain a plain-text LICENSE file with the contents of an [OSI approved](https://opensource.org/licenses/alphabetical) software license?
+- [ ] **License:** Does the repository contain a plain-text LICENSE or COPYING file with the contents of an [OSI approved](https://opensource.org/licenses/alphabetical) software license?
 - [ ] **Contribution and authorship:** Has the submitting author ({{author-handle}}) made major contributions to the software? Does the full list of paper authors seem appropriate and complete?
 - [ ] **Substantial scholarly effort:** Does this submission meet the scope eligibility described in the [JOSS guidelines](https://joss.readthedocs.io/en/latest/submitting.html#substantial-scholarly-effort)
 - [ ] **Data sharing:** If the paper contains original data, data are accessible to the reviewers. If the paper contains no original data, please check this item.
