@@ -32,7 +32,7 @@
 - [ ] **Example usage:** Do the authors include examples of how to use the software (ideally to solve real-world analysis problems).
 - [ ] **Functionality documentation:** Is the core functionality of the software documented to a satisfactory level (e.g., API method documentation)?
 - [ ] **Automated tests:** Are there automated tests or manual steps described so that the functionality of the software can be verified?
-- [ ] **Community guidelines:** Are there clear guidelines for third parties wishing to 1) Contribute to the software 2) Report issues or problems with the software 3) Seek support
+- [ ] **Community guidelines:** Are there clear guidelines for third parties wishing to 1. Contribute to the software 2. Report issues or problems with the software 3. Seek support
 
 ### Software paper
 
