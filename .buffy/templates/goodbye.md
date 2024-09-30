@@ -1,6 +1,9 @@
 :tada::tada::tada: Congratulations on your paper acceptance! :tada::tada::tada:
 
-If you would like to include a link to your paper from your README use the following code snippets:
+If you would like to include a link to your paper from your README use the following
+
+<details><summary><strong>code snippets</strong></summary>
+<p>
 
 ```
 Markdown:
@@ -15,6 +18,10 @@ reStructuredText:
 .. image:: https://joss.theoj.org/papers/10.21105/joss.0{{issue_id}}/status.svg
    :target: https://doi.org/10.21105/joss.0{{issue_id}}
 ```
+
+</p>
+</details>
+
 This is how it will look in your documentation:
 
 [![DOI](https://joss.theoj.org/papers/10.21105/joss.0{{issue_id}}/status.svg)](https://doi.org/10.21105/joss.0{{issue_id}})
