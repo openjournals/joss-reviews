@@ -2,11 +2,11 @@
 
 ### Conflict of interest
 
-- [ ] I confirm that I have read the [JOSS conflict of interest (COI) policy](https://github.com/openjournals/joss/blob/master/COI.md) and that: I have no COIs with reviewing this work or that any perceived COIs have been waived by JOSS for the purpose of this review.
+- [ ] I confirm that I have read the [JOSS conflict of interest (COI) policy](https://github.com/openjournals/joss/blob/main/COI.md) and that: I have no COIs with reviewing this work or that any perceived COIs have been waived by JOSS for the purpose of this review.
 
 ### Code of Conduct
 
-- [ ] I confirm that I read and will adhere to the [JOSS code of conduct](https://joss.theoj.org/about#code_of_conduct).
+- [ ] I confirm that I read and will adhere to the [JOSS code of conduct](https://github.com/openjournals/joss/blob/main/CODE_OF_CONDUCT.md).
 
 ### General checks
 
