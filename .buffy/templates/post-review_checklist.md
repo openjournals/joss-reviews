@@ -9,7 +9,7 @@
 
 ## Editor Tasks Prior to Acceptance
 - [ ] Read the text of the paper and offer comments/corrections (as either a list or a pull request)
-- [ ] Check that the archive title, author list, version tag, and the license are correct
+- [ ] Check that the title, author list, version tag, and the license are correct in the archived release
 - [ ] Set archive DOI with ``@editorialbot set <DOI here> as archive``
 - [ ] Set version with ``@editorialbot set <version here> as version``
 - [ ] Double check rendering of paper with ``@editorialbot generate pdf``
