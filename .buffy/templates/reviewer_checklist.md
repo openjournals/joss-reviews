@@ -52,3 +52,7 @@
 - [ ] **AI usage disclosure (required section):** Does the paper include an "AI usage disclosure" section that transparently discloses any use of generative AI in the software creation, documentation, or paper authoring?
 - [ ] **Quality of writing:** Is the paper well written (i.e., it does not require editing for structure, language, or writing quality)?
 - [ ] **References:** Is the list of references complete, and is everything cited appropriately that should be cited (e.g., papers, datasets, software)? Do references in the text use the proper [citation syntax](https://pandoc.org/MANUAL.html#extension-citations)?
+
+
+### AI usage disclosure during review. 
+- [ ] I have disclosed any usage of AI during my review of this paper. 
