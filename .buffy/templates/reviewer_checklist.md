@@ -1,5 +1,7 @@
 ## Review checklist for @{{sender}}
 
+**Reminder**: Reviewers may employ AI tools for non-substantive tasks (grammar checking, code contextualization) requiring brief disclosure at review conclusion. All evaluative e.g. determinations—scoring, recommendations, originality assessments, and compliance judgments must reflect human reviewer judgment exclusively. 
+
 ### Conflict of interest
 
 - [ ] I confirm that I have read the [JOSS conflict of interest (COI) policy](https://github.com/openjournals/joss/blob/main/COI.md) and that: I have no COIs with reviewing this work or that any perceived COIs have been waived by JOSS for the purpose of this review.
@@ -50,3 +52,7 @@
 - [ ] **AI usage disclosure (required section):** Does the paper include an "AI usage disclosure" section that transparently discloses any use of generative AI in the software creation, documentation, or paper authoring?
 - [ ] **Quality of writing:** Is the paper well written (i.e., it does not require editing for structure, language, or writing quality)?
 - [ ] **References:** Is the list of references complete, and is everything cited appropriately that should be cited (e.g., papers, datasets, software)? Do references in the text use the proper [citation syntax](https://pandoc.org/MANUAL.html#extension-citations)?
+
+
+### AI usage disclosure during review. 
+- [ ] I have disclosed any usage of AI during my review of this paper. 
