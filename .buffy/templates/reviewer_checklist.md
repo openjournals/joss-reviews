@@ -1,5 +1,7 @@
 ## Review checklist for @{{sender}}
 
+**Reminder**: Reviewers may employ AI tools for non-substantive tasks (grammar checking, code contextualization) requiring brief disclosure at review conclusion. All evaluative e.g. determinations—scoring, recommendations, originality assessments, and compliance judgments must reflect human reviewer judgment exclusively. 
+
 ### Conflict of interest
 
 - [ ] I confirm that I have read the [JOSS conflict of interest (COI) policy](https://github.com/openjournals/joss/blob/main/COI.md) and that: I have no COIs with reviewing this work or that any perceived COIs have been waived by JOSS for the purpose of this review.
