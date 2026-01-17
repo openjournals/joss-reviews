@@ -1,5 +1,13 @@
 ## Review checklist for @{{sender}}
 
+### AI usage
+
+- [ ] I confirm that I have read the [JOSS AI policy](https://joss.theoj.org/about#ai-policy) and understand that:
+  - AI may only be used for **non-substantive assistance** (e.g., grammar checking my review text, contextualizing public materials)
+  - **All evaluative decisions**—including scoring, accept/reject recommendations, and assessments of originality, correctness, significance, and ethics compliance—**must be made exclusively by me**, not AI
+  - I bear full responsibility for all judgments, recommendations, and technical claims in my review
+  - I will disclose any AI assistance at the conclusion of my review
+
 ### Conflict of interest
 
 - [ ] I confirm that I have read the [JOSS conflict of interest (COI) policy](https://github.com/openjournals/joss/blob/main/COI.md) and that: I have no COIs with reviewing this work or that any perceived COIs have been waived by JOSS for the purpose of this review.
