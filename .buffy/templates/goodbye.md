@@ -7,16 +7,16 @@ If you would like to include a link to your paper from your README use the follo
 
 ```
 Markdown:
-[![DOI](https://joss.theoj.org/papers/10.21105/joss.0{{issue_id}}/status.svg)](https://doi.org/10.21105/joss.0{{issue_id}})
+[![DOI](https://joss.theoj.org/papers/10.21105/joss.{{doi_issue_id}}/status.svg)](https://doi.org/10.21105/joss.{{doi_issue_id}})
 
 HTML:
-<a style="border-width:0" href="https://doi.org/10.21105/joss.0{{issue_id}}">
-  <img src="https://joss.theoj.org/papers/10.21105/joss.0{{issue_id}}/status.svg" alt="DOI badge" >
+<a style="border-width:0" href="https://doi.org/10.21105/joss.{{doi_issue_id}}">
+  <img src="https://joss.theoj.org/papers/10.21105/joss.{{doi_issue_id}}/status.svg" alt="DOI badge" >
 </a>
 
 reStructuredText:
-.. image:: https://joss.theoj.org/papers/10.21105/joss.0{{issue_id}}/status.svg
-   :target: https://doi.org/10.21105/joss.0{{issue_id}}
+.. image:: https://joss.theoj.org/papers/10.21105/joss.{{doi_issue_id}}/status.svg
+   :target: https://doi.org/10.21105/joss.{{doi_issue_id}}
 ```
 
 </p>
@@ -24,7 +24,7 @@ reStructuredText:
 
 This is how it will look in your documentation:
 
-[![DOI](https://joss.theoj.org/papers/10.21105/joss.0{{issue_id}}/status.svg)](https://doi.org/10.21105/joss.0{{issue_id}})
+[![DOI](https://joss.theoj.org/papers/10.21105/joss.{{doi_issue_id}}/status.svg)](https://doi.org/10.21105/joss.{{doi_issue_id}})
 
 **We need your help!**
 
